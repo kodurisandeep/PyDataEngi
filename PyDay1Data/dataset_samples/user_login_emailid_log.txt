@@ -1,0 +1,22 @@
+[2025-07-05 22:00:00] [ERROR] Login failed for user: ananya rao with ananya_rao@company.org
+[2025-07-03 22:01:00] [ERROR] Login failed for user: ananya rao with ananya_rao@company.org
+[2025-07-03 22:02:00] [ERROR] Login failed for user: ananya rao with ananya_rao@company.org
+[2025-07-03 22:03:00] [INFO] Login successful for user: ananya rao with ananya_rao@company.org
+
+[2025-07-04 09:15:12] [ERROR] Login failed for user: alice johnson with alice.john@gmail.com
+[2025-07-04 09:20:13] [ERROR] Login failed for user: alice johnson with alice.john@gmail.com
+[2025-07-04 09:25:42] [WARN] System slowdown noticed
+[2025-07-04 09:30:14] [ERROR] Login failed for user: alice johnson with alice.john@gmail.com
+
+[2025-07-04 10:10:00] [ERROR] Login failed for user: bob_singh with bob_singh@yahoo.com
+[2025-07-04 10:11:00] [ERROR] Login failed for user: bob_singh with bob_singh@yahoo.com
+[2025-07-05 10:12:00] [ERROR] Login failed for user: bob_singh with bob_singh@yahoo.com
+
+[2025-07-05 08:01:00] [ERROR] Login failed for user: charlie.dev with charlie.dev@protonmail.com
+[2025-07-05 08:03:00] [ERROR] Login failed for user: charlie.dev with charlie.dev@protonmail.com
+[2025-07-05 08:04:00] [INFO] Login successful for user: charlie.dev with charlie.dev@protonmail.com
+[2025-07-05 08:06:00] [ERROR] Login failed for user: charlie.dev with charlie.dev@protonmail.com
+[2025-07-05 08:07:00] [ERROR] Login failed for user: charlie.dev with charlie.dev@protonmail.com
+[2025-07-05 08:08:00] [ERROR] Login failed for user: charlie.dev with charlie.dev@protonmail.com
+
+[2025-07-05 12:00:00] [INFO] Maintenance window ended

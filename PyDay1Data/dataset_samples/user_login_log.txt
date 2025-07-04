@@ -1,0 +1,19 @@
+[2025-07-03 22:00:00] [ERROR] Login failed for user: ananya
+[2025-07-03 22:01:00] [ERROR] Login failed for user: ananya
+[2025-07-03 22:03:00] [INFO] Login successful for user: ananya
+
+[2025-07-04 09:15:12] [ERROR] Login failed for user: alice
+[2025-07-04 09:20:13] [ERROR] Login failed for user: alice
+[2025-07-04 09:25:42] [WARN] Some other message
+[2025-07-04 09:30:14] [ERROR] Login failed for user: alice
+
+[2025-07-04 10:10:00] [ERROR] Login failed for user: bob
+[2025-07-04 10:11:00] [ERROR] Login failed for user: bob
+[2025-07-05 10:12:00] [ERROR] Login failed for user: bob
+
+[2025-07-05 08:01:00] [ERROR] Login failed for user: charlie
+[2025-07-05 08:03:00] [ERROR] Login failed for user: charlie
+[2025-07-05 08:04:00] [INFO] Login successful for user: charlie
+[2025-07-05 08:06:00] [ERROR] Login failed for user: charlie
+[2025-07-05 08:07:00] [ERROR] Login failed for user: charlie
+[2025-07-05 08:08:00] [ERROR] Login failed for user: charlie

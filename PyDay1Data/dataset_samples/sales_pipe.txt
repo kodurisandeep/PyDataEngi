@@ -1,0 +1,5 @@
+Date|Region|Salesperson|Units|Revenue
+2025-07-01|East|Amit|10|5000
+2025-07-02|West|Sneha|8|4200
+2025-07-02|South|Ravi|12|6200
+2025-07-03|North|Meena|5|2500

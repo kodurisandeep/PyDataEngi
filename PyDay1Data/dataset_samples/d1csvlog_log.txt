@@ -1,0 +1,150 @@
+[2025-07-04 10:40:57] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-07-04 10:40:57] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-07-04 10:40:57] [INFO] Parsed 5 good rows successfully
+[2025-07-04 10:40:57] [INFO] No bad rows detected
+[2025-07-04 10:40:57] [INFO] Total rows read: 5
+[2025-07-04 10:40:57] [INFO] Parsing complete
+
+[2025-07-04 10:47:55] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-07-04 10:47:55] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-07-04 10:47:55] [INFO] Parsed 5 good rows successfully
+[2025-07-04 10:47:55] [INFO] No bad rows detected
+[2025-07-04 10:47:55] [INFO] Total rows read: 5
+[2025-07-04 10:47:55] [INFO] Parsing complete
+
+[2025-07-04 10:48:17] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-07-04 10:48:17] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-07-04 10:48:17] [INFO] Parsed 5 good rows successfully
+[2025-07-04 10:48:17] [INFO] No bad rows detected
+[2025-07-04 10:48:17] [INFO] Total rows read: 5
+[2025-07-04 10:48:17] [INFO] Parsing complete
+
+[2025-07-04 10:49:24] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-07-04 10:49:24] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-07-04 10:49:24] [INFO] Parsed 5 good rows successfully
+[2025-07-04 10:49:24] [INFO] No bad rows detected
+[2025-07-04 10:49:24] [INFO] Total rows read: 5
+[2025-07-04 10:49:24] [INFO] Parsing complete
+
+[2025-07-04 10:52:36] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-07-04 10:52:36] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-07-04 10:52:36] [INFO] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-07-04 10:52:36] [INFO] Parsed 4 good rows successfully
+[2025-07-04 10:52:36] [INFO] 1 bad rows saved to: dataset_samples/bad_rows.csv
+[2025-07-04 10:52:36] [INFO] Total rows read: 5
+[2025-07-04 10:52:36] [INFO] Parsing complete
+
+[2025-07-04 10:56:35] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-07-04 10:56:35] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-07-04 10:56:35] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-07-04 10:56:35] [INFO] Parsed 4 good rows successfully
+[2025-07-04 10:56:35] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-07-04 10:56:35] [INFO] Total rows read: 5
+[2025-07-04 10:56:35] [INFO] Parsing complete
+
+[2025-07on-04 11:07:32] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-07on-04 11:07:32] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-07on-04 11:07:32] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-07on-04 11:07:32] [INFO] Parsed 4 good rows successfully
+[2025-07on-04 11:07:32] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-07on-04 11:07:32] [INFO] Total rows read: 5
+[2025-07on-04 11:07:32] [INFO] Parsing complete
+
+[2025-07M-04 11:07:48] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-07M-04 11:07:48] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-07M-04 11:07:48] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-07M-04 11:07:48] [INFO] Parsed 4 good rows successfully
+[2025-07M-04 11:07:48] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-07M-04 11:07:48] [INFO] Total rows read: 5
+[2025-07M-04 11:07:48] [INFO] Parsing complete
+
+[2025-08on-04 11:08:09] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-08on-04 11:08:09] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-08on-04 11:08:09] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-08on-04 11:08:09] [INFO] Parsed 4 good rows successfully
+[2025-08on-04 11:08:09] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-08on-04 11:08:09] [INFO] Total rows read: 5
+[2025-08on-04 11:08:09] [INFO] Parsing complete
+
+[2025-07mm-04 11:08:31] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-07mm-04 11:08:31] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-07mm-04 11:08:31] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-07mm-04 11:08:31] [INFO] Parsed 4 good rows successfully
+[2025-07mm-04 11:08:31] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-07mm-04 11:08:31] [INFO] Total rows read: 5
+[2025-07mm-04 11:08:31] [INFO] Parsing complete
+
+[2025-08-04 11:08:55] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-08-04 11:08:55] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-08-04 11:08:55] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-08-04 11:08:55] [INFO] Parsed 4 good rows successfully
+[2025-08-04 11:08:55] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-08-04 11:08:55] [INFO] Total rows read: 5
+[2025-08-04 11:08:55] [INFO] Parsing complete
+
+[2025-Jul-04 11:10:48] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-Jul-04 11:10:48] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-Jul-04 11:10:48] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-Jul-04 11:10:48] [INFO] Parsed 4 good rows successfully
+[2025-Jul-04 11:10:48] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-Jul-04 11:10:48] [INFO] Total rows read: 5
+[2025-Jul-04 11:10:48] [INFO] Parsing complete
+
+[2025-Jul-04 11:12:21 AM] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-Jul-04 11:12:21 AM] [INFO] Header detected: ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
+[2025-Jul-04 11:12:21 AM] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-Jul-04 11:12:21 AM] [INFO] Parsed 4 good rows successfully
+[2025-Jul-04 11:12:21 AM] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-Jul-04 11:12:21 AM] [INFO] Total rows read: 5
+[2025-Jul-04 11:12:21 AM] [INFO] Parsing complete
+
+[2025-Jul-04 11:21:54 AM] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-Jul-04 11:21:54 AM] [WARN] Line 6 has unbalanced quotes: 5.0,3.6,1.4,0.2,"Iris-setosa
+[2025-Jul-04 11:21:54 AM] [INFO] Parsed 4 good rows successfully
+[2025-Jul-04 11:21:54 AM] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-Jul-04 11:21:54 AM] [INFO] Total rows read: 5
+[2025-Jul-04 11:21:54 AM] [INFO] Parsing complete
+
+[2025-Jul-04 11:44:15 AM] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-Jul-04 11:44:15 AM] [WARN] Line 6 has unbalanced quotes: 5,3.6,1.4,0.2,"Iris-setosa
+[2025-Jul-04 11:44:15 AM] [WARN] Line 7 has unbalanced quotes: "
+[2025-Jul-04 11:44:15 AM] [INFO] Parsed 5 good rows successfully
+[2025-Jul-04 11:44:15 AM] [INFO] 2 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-Jul-04 11:44:15 AM] [INFO] Total rows read: 7
+[2025-Jul-04 11:44:15 AM] [INFO] Parsing complete
+
+[2025-Jul-04 11:45:41 AM] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-Jul-04 11:45:41 AM] [WARN] Line 6 has unbalanced quotes: 5,3.6,1.4,0.2,"Iris-setosa
+[2025-Jul-04 11:45:41 AM] [INFO] Parsed 5 good rows successfully
+[2025-Jul-04 11:45:41 AM] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-Jul-04 11:45:41 AM] [INFO] Total rows read: 6
+[2025-Jul-04 11:45:41 AM] [INFO] Parsing complete
+
+[2025-Jul-04 11:47:09 AM] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-Jul-04 11:47:09 AM] [WARN] Line 6 has unbalanced quotes: 5,3.6,1.4,0.2,"Iris-setosa
+[2025-Jul-04 11:47:09 AM] [INFO] Parsed 5 good rows successfully
+[2025-Jul-04 11:47:09 AM] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-Jul-04 11:47:09 AM] [INFO] Total rows read: 6
+[2025-Jul-04 11:47:09 AM] [INFO] Parsing complete
+
+[2025-Jul-04 11:48:19 AM] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-Jul-04 11:48:19 AM] [WARN] Line 6 has unbalanced quotes: 5,3.6,1.4,0.2,"Iris-setosa
+[2025-Jul-04 11:48:19 AM] [INFO] Parsed 5 good rows successfully
+[2025-Jul-04 11:48:19 AM] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-Jul-04 11:48:19 AM] [INFO] Total rows read: 6
+[2025-Jul-04 11:48:19 AM] [INFO] Parsing complete
+
+[2025-Jul-04 11:48:42 AM] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-Jul-04 11:48:42 AM] [WARN] Line 6 has unbalanced quotes: 5,3.6,1.4,0.2,"Iris-setosa
+[2025-Jul-04 11:48:42 AM] [INFO] Parsed 5 good rows successfully
+[2025-Jul-04 11:48:42 AM] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-Jul-04 11:48:42 AM] [INFO] Total rows read: 6
+[2025-Jul-04 11:48:42 AM] [INFO] Parsing complete
+
+[2025-Jul-04 11:49:53 AM] [INFO] Starting data parsing for file: dataset_samples/iris_malformed.csv
+[2025-Jul-04 11:49:53 AM] [WARN] Line 6 has unbalanced quotes: 5,3.6,1.4,0.2,"Iris-setosa
+[2025-Jul-04 11:49:53 AM] [INFO] Parsed 5 good rows successfully
+[2025-Jul-04 11:49:53 AM] [INFO] 1 bad rows saved to: dataset_samples/iris_malformed_bad.csv
+[2025-Jul-04 11:49:53 AM] [INFO] Total rows read: 6
+[2025-Jul-04 11:49:53 AM] [INFO] Parsing complete
+
