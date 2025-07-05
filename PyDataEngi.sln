@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyDay1Data", "PyDay1Data\PyDay1Data.pyproj", "{7BD328F0-922A-4F4D-8C6F-B36B57731AD8}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyDataEngi", "PyDataEngi.pyproj", "{7BD328F0-922A-4F4D-8C6F-B36B57731AD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
