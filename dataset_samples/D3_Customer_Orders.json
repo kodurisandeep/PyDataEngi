@@ -1,0 +1,68 @@
+[
+  {
+    "customer": {
+      "id": "C001",
+      "name": "Ravi Kumar",
+      "email": "ravi.k@example.com",
+      "address": {
+        "city": "Hyderabad",
+        "zip": "500001"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O1001",
+        "item": "Laptop",
+        "price": 75000,
+        "quantity": 1,
+        "delivery": {
+          "date": "2023-06-01",
+          "status": "Delivered"
+        }
+      },
+      {
+        "order_id": "O1002",
+        "item": "Mouse",
+        "price": 600,
+        "quantity": 2,
+        "delivery": {
+          "date": "2023-06-03",
+          "status": "Delivered"
+        }
+      }
+    ]
+  },
+  {
+    "customer": {
+      "id": "C002",
+      "name": "Anjali Mehta",
+      "email": "anjali.m@example.com",
+      "address": {
+        "city": "Pune",
+        "zip": "411001"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "O2001",
+        "item": "Smartphone",
+        "price": 32000,
+        "quantity": 1,
+        "delivery": {
+          "date": "2023-06-05",
+          "status": "Shipped"
+        }
+      },
+      {
+        "order_id": "O2002",
+        "item": "Power Bank",
+        "price": 1200,
+        "quantity": 1,
+        "delivery": {
+          "date": "2023-06-06",
+          "status": "Pending"
+        }
+      }
+    ]
+  }
+]
