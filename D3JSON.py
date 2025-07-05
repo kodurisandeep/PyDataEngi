@@ -25,9 +25,11 @@ df.columns = df.columns.str.replace(r"\.", "_", regex=True)
 ### 1. Basic Analysis
 #Total spend per customer:
 df["total_value"] = df["price"] * df["quantity"]
-df.groupby("customer_id")["total_value"].sum()
+print("Total spend per customer:")
+print(df.groupby("customer_id")["total_value"].sum())
 #Count of items ordered:
-df.groupby("customer_name")["item"].count()
+print("Count of items ordered:")
+print(df.groupby("customer_name")["item"].count())
 
 ### 2. Date-Based Insights
 #Filter only delivered orders:
