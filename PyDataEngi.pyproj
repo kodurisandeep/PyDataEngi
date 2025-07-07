@@ -27,6 +27,7 @@
     <Compile Include="D1PandaCSV.py" />
     <Compile Include="D3JSON.py" />
     <Compile Include="D4XML.py" />
+    <Compile Include="D5PARQUET.py" />
     <Content Include="D1GenerateSamples.py" />
     <Compile Include="D2Excel.py" />
   </ItemGroup>
