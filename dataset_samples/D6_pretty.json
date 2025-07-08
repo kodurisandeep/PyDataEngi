@@ -1,0 +1,57 @@
+[
+  {
+    "CustomerID":101,
+    "Name":"Ravi Kumar",
+    "Age":34.0,
+    "Email":"ravi_k@example.com",
+    "JoinDate":"2022-04-15",
+    "PurchaseAmount":12500.0,
+    "AgeValid":true,
+    "EmailValid":true,
+    "JoinedBefore2022":false
+  },
+  {
+    "CustomerID":102,
+    "Name":"Anita Singh",
+    "Age":null,
+    "Email":"anita_singh@",
+    "JoinDate":"2021-09-03",
+    "PurchaseAmount":null,
+    "AgeValid":false,
+    "EmailValid":false,
+    "JoinedBefore2022":true
+  },
+  {
+    "CustomerID":103,
+    "Name":"Mohan Das",
+    "Age":27.0,
+    "Email":"mohan.d@example.com",
+    "JoinDate":"2023-01-10",
+    "PurchaseAmount":8750.0,
+    "AgeValid":true,
+    "EmailValid":true,
+    "JoinedBefore2022":false
+  },
+  {
+    "CustomerID":104,
+    "Name":"Sarah Gupta",
+    "Age":null,
+    "Email":"sarahg@example.com",
+    "JoinDate":"2022-11-08",
+    "PurchaseAmount":5600.0,
+    "AgeValid":false,
+    "EmailValid":true,
+    "JoinedBefore2022":false
+  },
+  {
+    "CustomerID":105,
+    "Name":"Deepak Rao",
+    "Age":40.0,
+    "Email":"deepak_rao@gmail.com",
+    "JoinDate":"2020-06-21",
+    "PurchaseAmount":11300.0,
+    "AgeValid":true,
+    "EmailValid":true,
+    "JoinedBefore2022":true
+  }
+]

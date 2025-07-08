@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Email,JoinDate,PurchaseAmount,AgeValid,EmailValid,JoinedBefore2022
+101,Ravi Kumar,34.0,ravi_k@example.com,2022-04-15,12500.0,True,True,False
+102,Anita Singh,,anita_singh@,2021-09-03,,False,False,True
+103,Mohan Das,27.0,mohan.d@example.com,2023-01-10,8750.0,True,True,False
+104,Sarah Gupta,,sarahg@example.com,2022-11-08,5600.0,False,True,False
+105,Deepak Rao,40.0,deepak_rao@gmail.com,2020-06-21,11300.0,True,True,True
