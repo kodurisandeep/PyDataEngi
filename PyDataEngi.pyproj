@@ -29,6 +29,7 @@
     <Compile Include="D4XML.py" />
     <Compile Include="D5PARQUET.py" />
     <Compile Include="D6FormatConversion.py" />
+    <Compile Include="D7CleanCombine.py" />
     <Content Include="D1GenerateSamples.py" />
     <Compile Include="D2Excel.py" />
   </ItemGroup>

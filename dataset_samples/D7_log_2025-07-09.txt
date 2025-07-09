@@ -19,3 +19,33 @@
 [2025-07-09 11:09:33.643140] [INFO] Combined all DataFrames
 [2025-07-09 11:09:33.643472] [INFO] Replaced ID with unique sequence
 [2025-07-09 11:09:33.645187] [INFO] Created new file in /dataset_samples/D7_final_dataset.csv
+[2025-07-09 16:28:38.984348] [INFO] Fetching encoding value
+[2025-07-09 16:28:38.984348] [INFO] Got encoding value
+[2025-07-09 16:28:38.991750] [INFO] Read CSV
+[2025-07-09 16:28:39.301532] [INFO] Created Parquet
+[2025-07-09 16:28:39.328859] [INFO] Read JSON
+[2025-07-09 16:28:40.014969] [INFO] Read Parquet
+[2025-07-09 16:28:40.564428] [INFO] Read Excel
+[2025-07-09 16:28:40.570851] [ERROR] Failed with error lxml not found, please install or use the etree parser.
+[2025-07-09 16:28:58.469310] [INFO] Fetching encoding value
+[2025-07-09 16:28:58.469310] [INFO] Got encoding value
+[2025-07-09 16:28:58.469310] [INFO] Read CSV
+[2025-07-09 16:28:58.501055] [INFO] Created Parquet
+[2025-07-09 16:28:58.517450] [INFO] Read JSON
+[2025-07-09 16:28:58.548979] [INFO] Read Parquet
+[2025-07-09 16:28:58.977428] [INFO] Read Excel
+[2025-07-09 16:28:59.030192] [INFO] Read XML
+[2025-07-09 16:28:59.030192] [INFO] Verify that all DataFrames (df_csv, df_json, etc.) have the same schema before combining them later
+[2025-07-09 16:28:59.030192] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 16:28:59.030192] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 16:28:59.034125] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 16:28:59.034125] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 16:28:59.037051] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 16:28:59.040075] [INFO] Normalized column names to lowercase and strip whitespace
+[2025-07-09 16:28:59.042084] [INFO] Filled NA for empty values
+[2025-07-09 16:28:59.056130] [INFO] Combined all DataFrames
+[2025-07-09 16:28:59.056130] [INFO] Removed 19 duplicate rows
+[2025-07-09 16:28:59.056130] [INFO] Removed duplicate rows from combined DataFrame
+[2025-07-09 16:28:59.056130] [INFO] Email validation completed: 6 valid, 0 invalid
+[2025-07-09 16:28:59.056130] [INFO] Replaced ID with unique sequence
+[2025-07-09 16:28:59.075471] [INFO] Created new file in /dataset_samples/D7_final_dataset.csv
