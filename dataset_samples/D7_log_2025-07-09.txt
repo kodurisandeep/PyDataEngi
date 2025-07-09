@@ -1,0 +1,21 @@
+[2025-07-09 11:08:01.304984] [INFO] Fetching encoding value
+[2025-07-09 11:08:01.305177] [ERROR] Failed with error [Errno 2] No such file or directory: './dataset_samples/customers.csv'
+[2025-07-09 11:09:33.376523] [INFO] Fetching encoding value
+[2025-07-09 11:09:33.377453] [INFO] Got encoding value
+[2025-07-09 11:09:33.381929] [INFO] Read CSV
+[2025-07-09 11:09:33.427059] [INFO] Created Parquet
+[2025-07-09 11:09:33.430530] [INFO] Read JSON
+[2025-07-09 11:09:33.485548] [INFO] Read Parquet
+[2025-07-09 11:09:33.638567] [INFO] Read Excel
+[2025-07-09 11:09:33.640289] [INFO] Read XML
+[2025-07-09 11:09:33.640442] [INFO] Verify that all DataFrames (df_csv, df_json, etc.) have the same schema before combining them later
+[2025-07-09 11:09:33.640577] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 11:09:33.640815] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 11:09:33.640982] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 11:09:33.641141] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 11:09:33.641298] [INFO] Index(['ID', 'Name', 'Email', 'Country'], dtype='object')
+[2025-07-09 11:09:33.642202] [INFO] Normalized column names to lowercase and strip whitespace
+[2025-07-09 11:09:33.642703] [INFO] Filled NA for empty values
+[2025-07-09 11:09:33.643140] [INFO] Combined all DataFrames
+[2025-07-09 11:09:33.643472] [INFO] Replaced ID with unique sequence
+[2025-07-09 11:09:33.645187] [INFO] Created new file in /dataset_samples/D7_final_dataset.csv
