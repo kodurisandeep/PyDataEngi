@@ -30,6 +30,8 @@
     <Compile Include="D5PARQUET.py" />
     <Compile Include="D6FormatConversion.py" />
     <Compile Include="D7CleanCombine.py" />
+    <Compile Include="D8RegClean.py" />
+    <Compile Include="D8RegVerboseClean.py" />
     <Content Include="D1GenerateSamples.py" />
     <Compile Include="D2Excel.py" />
   </ItemGroup>
