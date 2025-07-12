@@ -32,6 +32,7 @@
     <Compile Include="D7CleanCombine.py" />
     <Compile Include="D8RegClean.py" />
     <Compile Include="D8RegVerboseClean.py" />
+    <Compile Include="D9DateFormats.py" />
     <Content Include="D1GenerateSamples.py" />
     <Compile Include="D2Excel.py" />
   </ItemGroup>
