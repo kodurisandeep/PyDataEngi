@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="D10Outlier.py" />
+    <Compile Include="D10OutlierPostAction.py" />
     <Compile Include="D10OutlierVisual.py" />
     <Compile Include="D1UserLogWithEmail.py" />
     <Compile Include="D1UserLog.py" />
