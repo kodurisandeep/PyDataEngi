@@ -1,0 +1,13 @@
+District,Irrigation_Type,Irrigated_Area,Water_Depth,Survey_Date,Water_Source
+Hayathnagar,CNL,560,12,14-03-2023,CaNaL
+Ghatkesar,,430,,03-11-2023,Borewell
+Patancheru,drip,78,5.2,2023.03.20,drp
+Uppal,Flood Irrigation,920,,22-04-2023,flood
+Medchal,canal,1800,150,15-05-2023,canl
+Secunderabad,BoreWell,300,3.1,30-05-2023,Borwell
+LB Nagar,Drip Irrigation,56,,01-06-2023,drip
+Shamirpet,CNL,120,10,07-06-2023,CaNal
+Shadnagar,Flood Irrigation,2400,160,07-06-2023,flood
+Malkajgiri,Drp,45,1.8,03-07-2023,Drip
+Kukatpally,Borewell,700,,12-07-2023,BorWELL
+Ameerpet,CNL,540,11,01-08-2023,canal
