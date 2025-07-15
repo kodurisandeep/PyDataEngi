@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>PyDataEngi</Name>
     <RootNamespace>PyDataEngi</RootNamespace>
+    <TestFramework>Pytest</TestFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -26,6 +27,7 @@
     <Compile Include="D10OutlierVisual.py" />
     <Compile Include="D10ValidationRules.py" />
     <Compile Include="D11_Mini_Test.py" />
+    <Compile Include="D12EDA1Stats.py" />
     <Compile Include="D1UserLogWithEmail.py" />
     <Compile Include="D1UserLog.py" />
     <Compile Include="D1CSVLog.py" />
