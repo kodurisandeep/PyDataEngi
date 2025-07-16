@@ -30,6 +30,7 @@
     <Compile Include="D12EDA1Stats.py" />
     <Compile Include="D13EDA2GroupBy.py" />
     <Compile Include="D13EDA3JoinMerge.py" />
+    <Compile Include="D13EDA4CategoricalAnalysis.py" />
     <Compile Include="D1UserLogWithEmail.py" />
     <Compile Include="D1UserLog.py" />
     <Compile Include="D1CSVLog.py" />
