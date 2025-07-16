@@ -2,9 +2,6 @@
 
 A hands-on repository exploring practical techniques in **Data Engineering** and **Exploratory Data Analysis (EDA)** using Python. From data cleaning and transformation to visual storytelling and modular workflows — this project chronicles the journey from messy raw data to polished insights.
 
-## 📦 Project Structure
-PyDataEngi/ │ ├── Week1/                # Initial setup, basic profiling, pandas fundamentals ├── Week2/                # Deep dives into text cleaning, regex, mapping, fuzzy logic ├── Week3_EDA/            # Visualizations, rolling stats, resampling, correlation analysis ├── practice_tests/       # Concept-checking exercises and EDA mock challenges ├── D13EDA6PlotGraphs.py  # Line plots, histograms, heatmaps demo └── README.md             # You're looking at it!
-
 ## 🔍 Key Topics Covered
 
 - ✅ Missing data handling (NaNs, blanks, conditional filtering)
