@@ -38,7 +38,9 @@
     <Compile Include="D16ConfigurableETLScriptYAML.py" />
     <Compile Include="D16ConfigurableETLScriptCLI.py" />
     <Compile Include="D16FeatureCreation.py" />
+    <Compile Include="D16Logging.py" />
     <Compile Include="D16SchemaValidation.py" />
+    <Compile Include="D16TestGCPConnection.py" />
     <Compile Include="D1UserLogWithEmail.py" />
     <Compile Include="D1UserLog.py" />
     <Compile Include="D1CSVLog.py" />

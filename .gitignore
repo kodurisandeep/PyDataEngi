@@ -103,3 +103,9 @@ venv.bak/
 *.suo
 *.userosscache
 *.sln.docstates
+/key.json
+/token
+/clientLibraryConfig-google.json
+/.gitignore
+/.gitignore
+/.gitignore
