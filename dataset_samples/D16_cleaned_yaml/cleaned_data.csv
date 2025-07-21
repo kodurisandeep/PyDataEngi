@@ -1,0 +1,5 @@
+customer_id,store_city,customer_segment,txn_date,item_count,total_amount
+101,Hyderabad,Gold,15-07-2025,5,1500
+102,Delhi,Silver,15-07-2025,2,400
+103,Delhi,Bronze,16-07-2025,1,200
+104,Hyderabad,Gold,16-07-2025,3,800

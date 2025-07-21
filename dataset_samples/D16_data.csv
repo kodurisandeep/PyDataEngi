@@ -1,0 +1,5 @@
+customer_id,store_city,customer_segment,txn_date,item_count,total_amount,name,address
+101,Hyderabad,Gold,15-07-2025,5,1500,Arjun Patel,"12 MG Road, Hyderabad"
+102,Delhi,Silver,15-07-2025,2,400,Meera Sharma,"45 Ring Rd, Delhi"
+103,Delhi,Bronze,16-07-2025,1,200,Ravi Singh,"103 Connaught, Delhi"
+104,Hyderabad,Gold,16-07-2025,3,800,Kavya Rao,"89 Jubilee Hills, Hyderabad"

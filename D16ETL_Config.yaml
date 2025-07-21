@@ -1,0 +1,5 @@
+source_file: "./dataset_samples/D16_data.csv"
+output_dir: "./dataset_samples/D16_cleaned_yaml"
+drop_cols:
+  - name
+  - address

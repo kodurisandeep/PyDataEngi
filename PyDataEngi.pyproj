@@ -35,6 +35,10 @@
     <Compile Include="D13EDA6PlotGraphs.py" />
     <Compile Include="D14EDA7EDAProject.py" />
     <Compile Include="D15EDAExam.py" />
+    <Compile Include="D16ConfigurableETLScriptYAML.py" />
+    <Compile Include="D16ConfigurableETLScriptCLI.py" />
+    <Compile Include="D16FeatureCreation.py" />
+    <Compile Include="D16SchemaValidation.py" />
     <Compile Include="D1UserLogWithEmail.py" />
     <Compile Include="D1UserLog.py" />
     <Compile Include="D1CSVLog.py" />
@@ -48,6 +52,7 @@
     <Compile Include="D8RegVerboseClean.py" />
     <Compile Include="D9ColumnNormalize.py" />
     <Compile Include="D9DateFormats.py" />
+    <Content Include="D16ETL_Config.yaml" />
     <Content Include="D1GenerateSamples.py" />
     <Compile Include="D2Excel.py" />
   </ItemGroup>

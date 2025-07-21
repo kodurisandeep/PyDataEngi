@@ -56,7 +56,7 @@ plt.xlabel('Payment Method')
 plt.ylabel('Transaction Count')
 plt.title('Distribution of Payment Methods')
 plt.tight_layout()
-plt.show()
+#plt.show()
 
 top_brands = merged_df['brand'].value_counts().head(5)
 print(top_brands)
@@ -67,8 +67,12 @@ df['month'] = df['date'].dt.to_period("M")
 
 monthly_rev = df.groupby(['store_city', 'month'])['total_amount'].sum().reset_index()
 monthly_rev['rolling_avg'] = (
-    monthly_rev.groupby('store_city')['total_amount']
-    .transform(lambda x: x.rolling(window=2, min_periods=1).mean().round(2))
+    monthly_rev
+    .groupby('store_city')['total_amount']
+    .rolling(window=2, min_periods=1)
+    .mean()
+    .round(2)
+    .reset_index(level=0, drop=True)
 )
 
 print(monthly_rev)
