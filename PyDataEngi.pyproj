@@ -45,6 +45,9 @@
     <Compile Include="D16TestGCPConnection.py" />
     <Compile Include="D18BigQuery.py" />
     <Compile Include="D18BQDelete.py" />
+    <Compile Include="D19ETL.py" />
+    <Compile Include="D19MonitorAlertsSetup.py" />
+    <Compile Include="D19PullSub.py" />
     <Compile Include="D1UserLogWithEmail.py" />
     <Compile Include="D1UserLog.py" />
     <Compile Include="D1CSVLog.py" />
