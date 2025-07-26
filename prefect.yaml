@@ -1,0 +1,14 @@
+name: prefect-project
+prefect-version: 2.14.0
+
+dependencies:
+  - requirements.txt
+
+deployments:
+  - name: gcs-to-bq-etl
+    entrypoint: D20OrchesSchedule.py:etl_flow
+    work_pool:
+      name: gcp-etl-pool
+    schedule:
+      cron: "0 * * * *"
+      timezone: Asia/Kolkata

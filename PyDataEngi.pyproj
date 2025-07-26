@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7bd328f0-922a-4f4d-8c6f-b36b57731ad8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>D1PandaCSV.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -12,6 +13,7 @@
     <Name>PyDataEngi</Name>
     <RootNamespace>PyDataEngi</RootNamespace>
     <TestFramework>Pytest</TestFramework>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -52,6 +54,7 @@
     <Compile Include="D1UserLog.py" />
     <Compile Include="D1CSVLog.py" />
     <Compile Include="D1PandaCSV.py" />
+    <Compile Include="D20OrchesSchedule.py" />
     <Compile Include="D3JSON.py" />
     <Compile Include="D4XML.py" />
     <Compile Include="D5PARQUET.py" />
@@ -61,9 +64,13 @@
     <Compile Include="D8RegVerboseClean.py" />
     <Compile Include="D9ColumnNormalize.py" />
     <Compile Include="D9DateFormats.py" />
+    <Compile Include="test.py" />
+    <Content Include=".prefectignore" />
     <Content Include="D16ETL_Config.yaml" />
     <Content Include="D1GenerateSamples.py" />
     <Compile Include="D2Excel.py" />
+    <Content Include="d20_requirements.txt" />
+    <Content Include="prefect.yaml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
