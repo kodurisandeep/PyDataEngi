@@ -1,0 +1,10 @@
+# default_config.yaml
+project_id: tranquil-post-461304-m7
+input_bucket: sandeep-data
+input_blob: raw/D16_data.csv
+output_bucket: sandeep-data
+output_blob: cleaned/D16_data_cleaned.csv
+bq_dataset: sandeep_dataset
+bq_table: sandeep_table
+log_level: INFO
+dry_run: false

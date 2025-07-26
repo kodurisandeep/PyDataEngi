@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "properties": {
+    "customer_id": { "type": "string" },
+    "store_city": { "type": "string" },
+    "customer_segment": { "type": "string" },
+    "txn_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "item_count": { "type": "integer" },
+    "total_amount": { "type": "number" },
+    "name": { "type": "string" },
+    "address": { "type": "string" }
+  },
+  "required": [
+    "customer_id",
+    "store_city",
+    "customer_segment",
+    "txn_date",
+    "item_count",
+    "total_amount",
+    "name",
+    "address"
+  ]
+}

@@ -64,13 +64,31 @@
     <Compile Include="D8RegVerboseClean.py" />
     <Compile Include="D9ColumnNormalize.py" />
     <Compile Include="D9DateFormats.py" />
+    <Compile Include="D20_etl_project\cli.py" />
+    <Compile Include="D20_etl_project\main.py" />
+    <Compile Include="D20_etl_project\src\extract.py" />
+    <Compile Include="D20_etl_project\src\load.py" />
+    <Compile Include="D20_etl_project\src\transform.py" />
+    <Compile Include="D20_etl_project\src\upload.py" />
+    <Compile Include="D20_etl_project\src\utils\config_loader.py" />
+    <Compile Include="D20_etl_project\src\utils\logging.py" />
+    <Compile Include="D20_etl_project\src\utils\secrets_loader.py" />
+    <Compile Include="D20_etl_project\src\utils\validation.py" />
     <Compile Include="test.py" />
     <Content Include=".prefectignore" />
     <Content Include="D16ETL_Config.yaml" />
     <Content Include="D1GenerateSamples.py" />
     <Compile Include="D2Excel.py" />
     <Content Include="d20_requirements.txt" />
+    <Content Include="D20_etl_project\config\default_config.yaml" />
+    <Content Include="D20_etl_project\config\schema_config.json" />
     <Content Include="prefect.yaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="D20_etl_project\" />
+    <Folder Include="D20_etl_project\config\" />
+    <Folder Include="D20_etl_project\src\" />
+    <Folder Include="D20_etl_project\src\utils\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
