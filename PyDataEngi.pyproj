@@ -55,6 +55,8 @@
     <Compile Include="D1CSVLog.py" />
     <Compile Include="D1PandaCSV.py" />
     <Compile Include="D20OrchesSchedule.py" />
+    <Compile Include="D21_IntroPyspark.py" />
+    <Compile Include="D22_PysparkAggregate.py" />
     <Compile Include="D3JSON.py" />
     <Compile Include="D4XML.py" />
     <Compile Include="D5PARQUET.py" />
