@@ -55,6 +55,7 @@ def detect_consecutive_failures(log_path, threshold=3):
                         print(f"[ALERT] {user} had {streak} consecutive failures on {day}")
                         break
                 # ignore other kinds of entries
+    print(user_daily_logs)
 
 if __name__ == "__main__":
     import sys
